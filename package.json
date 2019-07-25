@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "build": "webpack -p"
+  },
   "devDependencies": {
     "awesome-typescript-loader": "^3.5.0",
     "typescript": "^2.7.2",
